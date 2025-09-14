@@ -12,4 +12,4 @@ This is Phase 1.5 of my Python learning journey.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Expense-tracker.git
+   git clone https://github.com/adegoroye-build/Expense-tracker.git
